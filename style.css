@@ -1,0 +1,27 @@
+body {
+    background-color: hotpink;
+    text-align: center;
+}
+
+h1 {
+    font-size: 40px;
+    text-decoration: underline;
+}
+
+div {
+   background-color: pink;
+   margin-top: 5px;
+   margin-bottom: 5px;
+   margin-left: 5px;
+   margin-right: 5px;
+}
+
+h3 {
+    font-size: 30px;
+    font-weight: bold;
+}
+
+a {
+    font-size: 20px;
+    text-decoration: underline;
+}
